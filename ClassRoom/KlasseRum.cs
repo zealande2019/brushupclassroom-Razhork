@@ -10,8 +10,7 @@ namespace ClassRoom
     {
 
         public KlasseRum()
-        {
-            
+        {          
         }
         public string KlasseNavn { get; set; }
 
